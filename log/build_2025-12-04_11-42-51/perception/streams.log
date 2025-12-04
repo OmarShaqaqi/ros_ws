@@ -1,0 +1,34 @@
+[0.316s] Invoking command in '/home/omar/Desktop/ros_ws/src/perception': PYTHONPATH=/home/omar/Desktop/ros_ws/build/perception/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/omar/Desktop/ros_ws/install/perception/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/perception build --build-base /home/omar/Desktop/ros_ws/build/perception/build install --record /home/omar/Desktop/ros_ws/build/perception/install.log --single-version-externally-managed install_data
+[0.420s] running egg_info
+[0.420s] writing ../../build/perception/perception.egg-info/PKG-INFO
+[0.420s] writing dependency_links to ../../build/perception/perception.egg-info/dependency_links.txt
+[0.421s] writing entry points to ../../build/perception/perception.egg-info/entry_points.txt
+[0.421s] writing requirements to ../../build/perception/perception.egg-info/requires.txt
+[0.421s] writing top-level names to ../../build/perception/perception.egg-info/top_level.txt
+[0.422s] reading manifest file '../../build/perception/perception.egg-info/SOURCES.txt'
+[0.423s] writing manifest file '../../build/perception/perception.egg-info/SOURCES.txt'
+[0.423s] running build
+[0.423s] running build_py
+[0.423s] creating /home/omar/Desktop/ros_ws/build/perception/build/lib/perception/msg
+[0.423s] copying perception/msg/__init__.py -> /home/omar/Desktop/ros_ws/build/perception/build/lib/perception/msg
+[0.423s] creating /home/omar/Desktop/ros_ws/build/perception/build/lib/perception/nodes
+[0.423s] copying perception/nodes/color_detector_node.py -> /home/omar/Desktop/ros_ws/build/perception/build/lib/perception/nodes
+[0.423s] copying perception/nodes/__init__.py -> /home/omar/Desktop/ros_ws/build/perception/build/lib/perception/nodes
+[0.424s] running install
+[0.424s] running install_lib
+[0.424s] creating /home/omar/Desktop/ros_ws/install/perception/lib/python3.10/site-packages/perception/msg
+[0.424s] copying /home/omar/Desktop/ros_ws/build/perception/build/lib/perception/msg/__init__.py -> /home/omar/Desktop/ros_ws/install/perception/lib/python3.10/site-packages/perception/msg
+[0.424s] creating /home/omar/Desktop/ros_ws/install/perception/lib/python3.10/site-packages/perception/nodes
+[0.424s] copying /home/omar/Desktop/ros_ws/build/perception/build/lib/perception/nodes/color_detector_node.py -> /home/omar/Desktop/ros_ws/install/perception/lib/python3.10/site-packages/perception/nodes
+[0.424s] copying /home/omar/Desktop/ros_ws/build/perception/build/lib/perception/nodes/__init__.py -> /home/omar/Desktop/ros_ws/install/perception/lib/python3.10/site-packages/perception/nodes
+[0.425s] byte-compiling /home/omar/Desktop/ros_ws/install/perception/lib/python3.10/site-packages/perception/msg/__init__.py to __init__.cpython-310.pyc
+[0.425s] byte-compiling /home/omar/Desktop/ros_ws/install/perception/lib/python3.10/site-packages/perception/nodes/color_detector_node.py to color_detector_node.cpython-310.pyc
+[0.425s] byte-compiling /home/omar/Desktop/ros_ws/install/perception/lib/python3.10/site-packages/perception/nodes/__init__.py to __init__.cpython-310.pyc
+[0.425s] running install_data
+[0.425s] running install_egg_info
+[0.427s] removing '/home/omar/Desktop/ros_ws/install/perception/lib/python3.10/site-packages/perception-0.0.0-py3.10.egg-info' (and everything under it)
+[0.427s] Copying ../../build/perception/perception.egg-info to /home/omar/Desktop/ros_ws/install/perception/lib/python3.10/site-packages/perception-0.0.0-py3.10.egg-info
+[0.427s] running install_scripts
+[0.440s] Installing detection_node script to /home/omar/Desktop/ros_ws/install/perception/lib/perception
+[0.441s] writing list of installed files to '/home/omar/Desktop/ros_ws/build/perception/install.log'
+[0.455s] Invoked command in '/home/omar/Desktop/ros_ws/src/perception' returned '0': PYTHONPATH=/home/omar/Desktop/ros_ws/build/perception/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/omar/Desktop/ros_ws/install/perception/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/perception build --build-base /home/omar/Desktop/ros_ws/build/perception/build install --record /home/omar/Desktop/ros_ws/build/perception/install.log --single-version-externally-managed install_data

@@ -1,0 +1,22 @@
+[0.526s] Invoking command in '/home/omar/Desktop/ros_ws/src/ep_camera': PYTHONPATH=/home/omar/Desktop/ros_ws/build/ep_camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/omar/Desktop/ros_ws/install/ep_camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ep_camera build --build-base /home/omar/Desktop/ros_ws/build/ep_camera/build install --record /home/omar/Desktop/ros_ws/build/ep_camera/install.log --single-version-externally-managed install_data
+[0.622s] running egg_info
+[0.623s] writing ../../build/ep_camera/ep_camera.egg-info/PKG-INFO
+[0.623s] writing dependency_links to ../../build/ep_camera/ep_camera.egg-info/dependency_links.txt
+[0.623s] writing entry points to ../../build/ep_camera/ep_camera.egg-info/entry_points.txt
+[0.623s] writing requirements to ../../build/ep_camera/ep_camera.egg-info/requires.txt
+[0.623s] writing top-level names to ../../build/ep_camera/ep_camera.egg-info/top_level.txt
+[0.624s] reading manifest file '../../build/ep_camera/ep_camera.egg-info/SOURCES.txt'
+[0.624s] adding license file 'LICENSE'
+[0.625s] writing manifest file '../../build/ep_camera/ep_camera.egg-info/SOURCES.txt'
+[0.625s] running build
+[0.625s] running build_py
+[0.625s] running install
+[0.625s] running install_lib
+[0.626s] running install_data
+[0.627s] running install_egg_info
+[0.629s] removing '/home/omar/Desktop/ros_ws/install/ep_camera/lib/python3.10/site-packages/ep_camera-0.0.0-py3.10.egg-info' (and everything under it)
+[0.629s] Copying ../../build/ep_camera/ep_camera.egg-info to /home/omar/Desktop/ros_ws/install/ep_camera/lib/python3.10/site-packages/ep_camera-0.0.0-py3.10.egg-info
+[0.629s] running install_scripts
+[0.638s] Installing camera_node script to /home/omar/Desktop/ros_ws/install/ep_camera/lib/ep_camera
+[0.639s] writing list of installed files to '/home/omar/Desktop/ros_ws/build/ep_camera/install.log'
+[0.652s] Invoked command in '/home/omar/Desktop/ros_ws/src/ep_camera' returned '0': PYTHONPATH=/home/omar/Desktop/ros_ws/build/ep_camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/omar/Desktop/ros_ws/install/ep_camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ep_camera build --build-base /home/omar/Desktop/ros_ws/build/ep_camera/build install --record /home/omar/Desktop/ros_ws/build/ep_camera/install.log --single-version-externally-managed install_data

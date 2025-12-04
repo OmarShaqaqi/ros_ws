@@ -24,6 +24,8 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            "detection_node = perception.nodes.color_detector_node:main",
+            "saver_node = perception.nodes.image_saver:main"
         ],
     },
 )

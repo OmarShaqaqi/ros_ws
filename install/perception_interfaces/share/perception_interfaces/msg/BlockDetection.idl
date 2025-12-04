@@ -1,0 +1,22 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from perception_interfaces/msg/BlockDetection.msg
+// generated code does not contain a copyright notice
+
+
+module perception_interfaces {
+  module msg {
+    struct BlockDetection {
+      string color;
+
+      int32 pixel_x;
+
+      int32 pixel_y;
+
+      int32 width;
+
+      int32 height;
+
+      float confidence;
+    };
+  };
+};

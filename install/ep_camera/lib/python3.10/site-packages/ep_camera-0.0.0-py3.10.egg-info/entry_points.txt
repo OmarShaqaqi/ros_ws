@@ -1,0 +1,3 @@
+[console_scripts]
+camera_node = ep_camera.camera_node:main
+

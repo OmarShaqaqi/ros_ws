@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-00039a91c793e6b8ab29.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "perception_interfaces__py",
+					"jsonFile" : "directory-perception_interfaces__py-8b80349e0f0e55805bf9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/omar/Desktop/ros_ws/build/perception_interfaces/perception_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "perception_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_perception_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_perception_interfaces_egg-f25dd4d11ac088dd02ed.json",
+					"name" : "ament_cmake_python_build_perception_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_perception_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_perception_interfaces-57bfe762ff667d808470.json",
+					"name" : "ament_cmake_python_copy_perception_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "perception_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-perception_interfaces-27564aad4e745929603e.json",
+					"name" : "perception_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "perception_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-perception_interfaces__cpp-4fefce9760371aeb9145.json",
+					"name" : "perception_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "perception_interfaces__py::@90ae2e71c88d7af79f92",
+					"jsonFile" : "target-perception_interfaces__py-e6b133dafb6aa41eaf95.json",
+					"name" : "perception_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "perception_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-perception_interfaces__rosidl_generator_c-93532d68ad1d8fc39dc9.json",
+					"name" : "perception_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "perception_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-perception_interfaces__rosidl_generator_py-c18c031219c2574a7151.json",
+					"name" : "perception_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "perception_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-perception_interfaces__rosidl_typesupport_c-649c702a24aefe669a56.json",
+					"name" : "perception_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "perception_interfaces__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-perception_interfaces__rosidl_typesupport_c__pyext-03c94e06a38202513c0f.json",
+					"name" : "perception_interfaces__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "perception_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-perception_interfaces__rosidl_typesupport_cpp-067b0ed2ff1615009cb2.json",
+					"name" : "perception_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "perception_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-perception_interfaces__rosidl_typesupport_fastrtps_c-fd18240d1241354017c0.json",
+					"name" : "perception_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "perception_interfaces__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-perception_interfaces__rosidl_typesupport_fastrtps_c__pyext-e912f4edabcd0eef5152.json",
+					"name" : "perception_interfaces__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "perception_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-perception_interfaces__rosidl_typesupport_fastrtps_cpp-ade6515cf0d1bd4ed949.json",
+					"name" : "perception_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "perception_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-perception_interfaces__rosidl_typesupport_introspection_c-bc98d58af1b7de232765.json",
+					"name" : "perception_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "perception_interfaces__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-perception_interfaces__rosidl_typesupport_introspection_c__pyext-b07bb0d69d811c6c1fbe.json",
+					"name" : "perception_interfaces__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "perception_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-perception_interfaces__rosidl_typesupport_introspection_cpp-98aa57c2bdbc8feac2a0.json",
+					"name" : "perception_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "perception_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-perception_interfaces_uninstall-9ffba7198f71066b8a90.json",
+					"name" : "perception_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-2a010cba63b902e79fd5.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/omar/Desktop/ros_ws/build/perception_interfaces",
+		"source" : "/home/omar/Desktop/ros_ws/src/perception_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
